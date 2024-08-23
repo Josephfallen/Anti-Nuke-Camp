@@ -12,6 +12,8 @@ using System.Net.Http; // For HTTP requests
 using System.IO; // For file operations
 using System.Threading.Tasks; // For asynchronous tasks
 
+// Made by Joseph_fallen for The Plague house --> https://discord.gg/eaeJ9dnnKx
+
 // Namespace declaration for organizing code
 namespace Anti_nuke_camp
 {
